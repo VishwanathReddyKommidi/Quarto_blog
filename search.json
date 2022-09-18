@@ -18,13 +18,13 @@
     "href": "index.html",
     "title": "Vishwanath Blog",
     "section": "",
-    "text": "news\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nSep 16, 2022\n\n\nVishwanath\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nSep 14, 2022\n\n\nVishwanath\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nSep 16, 2022\n\n\nVishwanath\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nSep 14, 2022\n\n\nVishwanath\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this blog"
+    "text": "My name is Vishwanath Reddy Kommidi, and I am a first year graduate student in the Social Data Analytics and Research program here at UT Dallas.\nI have 3 years experience in IT industry Infosys Limited. In the past 3 years of my professional experience, I have worked on Data Mining and Cloud technologies wherein we a team of 10 members developed data ingestion process where data from Kafka ingests into Google Cloud Big Query tables with incremental and full load. Apart from data ingestion, data ingestion and visualization is also performed by SSIS and SSRS tool."
   }
 ]
